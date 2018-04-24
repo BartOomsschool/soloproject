@@ -1,4 +1,4 @@
-## Titel h1
+# Titel h1
 
 lijn 1
 ## Titel h2
@@ -14,3 +14,5 @@ commando's
 * Git commit -m  voor je aanpassingen in de local repos te zetten.
 * Git push voor het online te zetten in de remote repos.
 * Git clone voor je bestanden eraf te halen.
+1. Item 1
+2. Item 2
